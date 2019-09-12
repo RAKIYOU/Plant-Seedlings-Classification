@@ -19,8 +19,8 @@ PyTorch 1.0.1
 ## Results ##
 About CNNs, we trained VGG11, ResNet18, ResNet34 and Densenet121. we got every good results from amost every neural networks.
 There was no big difference on accuracy, and we easily got 94% accuracy after trainingt 20 epochs.
-Among them, when  when training ResNet34 over 25 epochs, the accuracy became even higher (96.347%).
+Among them, when training ResNet34 over 25 epochs, the accuracy became even higher (96.347%).
 
 ## Acknowledgments ##
 The datasets used in our experiments Aarhus University Department of Engineering Signal Processing Group.
-And please find the original [challenge page](https://www.kaggle.com/c/plant-seedlings-classification/overview) on Kaggle.
+And please find [the original page](https://www.kaggle.com/c/plant-seedlings-classification/overview) on Kaggle.
