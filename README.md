@@ -20,7 +20,7 @@ PyTorch 1.0.1
 About CNNs, we trained VGG11,ResNet18,ResNet34 and Densenet121. we got every good results from amost every neural networks.
 There was no big difference on accuracy, and we easily got 94% accuracy after trainingt 20 epochs.
 Among them, when training ResNet34 over 25 epochs, the accuracy became even higher (96.347%).
-CNNs|epochs|accuracy
+|CNNs|epochs|accuracy|
 |--|:--:|--:|
 |VGG11|20|93.38%|
 |ResNet18|20|94.13%|
