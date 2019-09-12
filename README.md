@@ -9,11 +9,11 @@ Please find [Training data](https://www.kaggle.com/c/plant-seedlings-classificat
 and [Testing data](https://www.kaggle.com/c/plant-seedlings-classification/download/test.zip) for prediction here.
     
 ## Dependencies ##
-*Python 3.7.3
+> * Python 3.7.3
 
-*NVIDIA GeForce GTX 1080
+> * NVIDIA GeForce GTX 1080
 
-*PyTorch 1.0.1
+> * PyTorch 1.0.1
 
 ## Results ##
 About CNNs, we trained VGG11,ResNet18,ResNet34 and Densenet121. we got every good results from amost every neural networks.
