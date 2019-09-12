@@ -21,11 +21,11 @@ About CNNs, we trained VGG11,ResNet18,ResNet34 and Densenet121. we got every goo
 There was no big difference on accuracy, and we easily got 94% accuracy after trainingt 20 epochs.
 Among them, when training ResNet34 over 25 epochs, the accuracy became even higher (96.347%).
 CNNs|epochs|accuracy
---|:--:|--:
-VGG11|20|93.38%
-ResNet18|20|94.13%
-ResNet34|25|96.34%
- Densenet121 |20|95.21%
+|--|:--:|--:|
+|VGG11|20|93.38%|
+|ResNet18|20|94.13%|
+|ResNet34|25|96.34%|
+|Densenet121 |20|95.21%|
 ## Acknowledgments ##
 The datasets used in our experiments Aarhus University Department of Engineering Signal Processing Group.
 And please find [the original page](https://www.kaggle.com/c/plant-seedlings-classification/overview) on Kaggle.
