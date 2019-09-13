@@ -1,5 +1,5 @@
-Plant Seedlings Classification 
-==============================
+Kaggle Competition 1 ---Plant Seedlings Classification 
+======================================================
 Introduction
 --------------------
 I am playing on Kaggle recently. There is an old kaggle competition for image classification, which is very friendly to beginners. We are provided a training dataset and a testing dataset of images of plant seedlings at various stages of grown. Each image has a filename that is its unique id. The dataset comprises 12 plant species. The goal of the competition is to create a classifier capable of determining a plant's species from a single photo.
