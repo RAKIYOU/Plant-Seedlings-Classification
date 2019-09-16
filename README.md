@@ -18,13 +18,13 @@ and also [Testing data](https://www.kaggle.com/c/plant-seedlings-classification/
 ## Results ##
 About CNNs, we trained VGG11, ResNet18, ResNet34 and Densenet121. we got every good results from almost every neural network.
 There was no big difference on accuracy, and we easily got 94% accuracy after training 20 epochs.
-When training ResNet34 over 25 epochs, its accuracy arrived even higher (96.347%).
+When training ResNet34 over 40 epochs, its accuracy arrived even higher (96.13%).
 
 |CNNs        |epochs|accuracy|
 |:-----------|:----:|-------:|
 |VGG11       |20    |93.38%  |
 |ResNet18    |20    |94.13%  |
-|ResNet34    |25    |96.34%  |
+|ResNet34    |40    |96.13%  |
 |Densenet121 |20    |95.21%  |
 
 ## Acknowledgments ##
