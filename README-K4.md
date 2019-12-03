@@ -1,4 +1,4 @@
-Kaggle Competition 1 ---Plant Seedlings Classification 
+Plant Seedlings Classification 
 ======================================================
 Introduction
 --------------------
